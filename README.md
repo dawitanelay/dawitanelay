@@ -1,7 +1,7 @@
 ### Hi there,I'm Dawit! 👋
 
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=dawitanelay&show_icons=true&theme=radical" />
-<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitanelay&layout=compact" />
+<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitanelay&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=tokyonight" />
 
 
 <img align="left" alt="Ubuntu"  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
