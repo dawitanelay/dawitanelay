@@ -1,5 +1,7 @@
 ### Hi there,I'm Dawit! 👋
 
+![](https://komarev.com/ghpvc/?username=dawitanelay&style=flat&label=Profile+Views)
+
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=dawitanelay&show_icons=true&theme=radical" />
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitanelay&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=tokyonight" />
 
